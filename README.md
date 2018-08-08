@@ -22,6 +22,14 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 ### システム修正に関わる問題（過去発生したバグ、障害など）
 
+- （サマータイムを長年実施している国の人が作ったソフトウェアであっても）カレンダーやアラームなどの動作がおかしくなる
+    - Yep, There's A Daylight Savings Time Bug In iOS 7.0.6 - Cult of Mac | https://www.cultofmac.com/269245/yep-theres-daylight-savings-time-bug-ios-7-0-6/
+      > Apple has had bugs come up in iOS after the switch to Daylight Savings Time in 2010, 2011, and 2012, while 2013 saw a similar New Year’s Bug screw up Do Not Disturb for device owners. Now here we are in 2014. Does iOS 7 contain a Daylight Savings Time bug?  
+      > It does! If you open Calendar on your iOS 7 device, you will notice that while the time of your operating system is set correctly, the line marking the time in Calendar is an hour old.
+      > 訳: Appleは2010年、2011年、2012年にサマータイムに切り替えた後に発生するバグを起こしたばかりか、似たような失敗を2013年の新年にDo Not Disturb機能でやらかした。そして今は2014年、iOS 7はサマータイムのバグを含んでいるだろうか？  
+      > 含んでいた！カレンダーのアプリをiOS 7の端末で開くと、OSの時刻は正しく設定されているのに、カレンダーのアプリが指している現在時刻の線が1時間古い時刻を指しているのに気づくだろう。
+
+        - 訳注: iOSはiPhoneやiPadで使用されているOS（基本ソフト）です。正しく対応しない限り、サマータイムの切り替え前後にスマートフォンのアラームが動作しない、間違った時刻を表示する
 
 ### 身体への影響
 
@@ -30,6 +38,11 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 
 ### その他、サマータイムの導入に伴い想定される、\*\*悪い\*\*影響
+
+- オリンピックの競技を含めた、夕方の活動時が却って暑い自国の活動となってしまう。
+    - [【電子版】政府、夏時間検討へ　慎重姿勢から一転　首相が前向き姿勢 | 政治・経済 ニュース | 日刊工業新聞 電子版](https://www.nikkan.co.jp/articles/view/00483784)
+      > 仮に2時間繰り上げる夏時間を導入すれば、（中略）一方で、夕方の競技が暑い時間帯に行われるジレンマも抱える。
+
 
 
 ## サマータイムの良い側面について
@@ -47,7 +60,6 @@ daylight savings time bug - Google 検索 | https://www.google.co.jp/search?q=da
 daylight savings time - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time&rlz=1C1GCEA_enJP787JP787&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiG_4jd_NncAhVIu7wKHcbQAH0Q_AUICigB&biw=1240&bih=1294&dpr=1.5
 Daylight saving time may become a thing of the past in Europe | https://www.nbcnews.com/news/world/daylight-saving-time-may-become-thing-past-europe-n893131
 Bishop proposes states have more options for daylight saving time | https://www.thespectrum.com/story/news/2018/07/16/bishop-proposes-states-have-more-options-daylight-saving-time/789099002/
-Yep, There's A Daylight Savings Time Bug In iOS 7.0.6 - Cult of Mac | https://www.cultofmac.com/269245/yep-theres-daylight-savings-time-bug-ios-7-0-6/
 Glitch in Google Calendar - Daylight Savings Time March 11, 2018 - Google プロダクト フォーラム | https://productforums.google.com/forum/#!msg/calendar/2vrV8zKirOI/AeFdUfwOAgAJ
 1233809 - Daylight Savings Time Displays the Wrong Date in JavaScript on Windows | https://bugzilla.mozilla.org/show_bug.cgi?id=1233809
 日本に『サマータイム制』はいらない！ ( 夏 ) - 気象・歳時・防災 コラム - Yahoo!ブログ | https://blogs.yahoo.co.jp/otenki_bosai/47260331.html
@@ -61,5 +73,7 @@ daylight savings time trouble - Google 検索 | https://www.google.co.jp/search?
 Is daylight saving time worth the trouble? Research says no | http://theconversation.com/is-daylight-saving-time-worth-the-trouble-research-says-no-86739
 Why daylight saving time can be bad for your health - CNN | https://edition.cnn.com/2016/03/11/health/daylight-saving-time-health-effects/index.html
 404 Blog Not Found:夏時間を支持するのは頭が春な人だけ | http://blog.livedoor.jp/dankogai/archives/51239059.html
+
+https://www.ncbi.nlm.nih.gov/pubmed/11152980
 
 -->
