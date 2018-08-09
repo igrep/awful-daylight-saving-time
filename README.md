@@ -26,6 +26,7 @@ GitHubに公開していることから察せられるとおり、Pull request�
     - Yep, There's A Daylight Savings Time Bug In iOS 7.0.6 - Cult of Mac | https://www.cultofmac.com/269245/yep-theres-daylight-savings-time-bug-ios-7-0-6/
       > Apple has had bugs come up in iOS after the switch to Daylight Savings Time in 2010, 2011, and 2012, while 2013 saw a similar New Year’s Bug screw up Do Not Disturb for device owners. Now here we are in 2014. Does iOS 7 contain a Daylight Savings Time bug?  
       > It does! If you open Calendar on your iOS 7 device, you will notice that while the time of your operating system is set correctly, the line marking the time in Calendar is an hour old.
+
       > 訳: Appleは2010年、2011年、2012年にサマータイムに切り替えた後に発生するバグを起こしたばかりか、似たような失敗を2013年の新年にDo Not Disturb機能でやらかした。そして今は2014年、iOS 7はサマータイムのバグを含んでいるだろうか？  
       > 含んでいた！カレンダーのアプリをiOS 7の端末で開くと、OSの時刻は正しく設定されているのに、カレンダーのアプリが指している現在時刻の線が1時間古い時刻を指しているのに気づくだろう。
 
