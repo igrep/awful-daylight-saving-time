@@ -49,8 +49,12 @@ GitHubに公開していることから察せられるとおり、Pull request�
           このように、夏時間への切り替え時の問題は、実際に切り替える時だけでなく、切り替えがあった年以降においても、過去の時刻を扱うソフトウェアや、その他の過去の記録を扱う場合においても、間違いの元になることがあります。  
           つまり、一度サマータイムを採用してしまうと、**採用した年以降にも混乱を招く恐れがある**のです。
 
-### 身体への影響
+### 身体への影響や、結果として起こる問題
 
+- cyberloafing（勤務中のインターネットの私用）が増える
+    - [Lost sleep and cyberloafing: Evidence from the laboratory and a daylight saving time quasi-experiment.](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0027557)
+        - > We also demonstrate that the shift to Daylight Saving Time (DST) results in a dramatic increase in cyberloafing behavior at the national level.
+        - > 訳: サマータイムへの切り替えが、勤務中のインターネットの私用を国レベルで劇的に増やす、ということを示した。
 - [The Human Circadian Clock's Seasonal Adjustment Is Disrupted by Daylight Saving Time - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960982207020866)
 
 
@@ -82,6 +86,12 @@ GitHubに公開していることから察せられるとおり、Pull request�
 ## サマータイムの良い側面について
 
 
+## サマータイムのよい影響と悪い影響両方の紹介
+
+- サマータイム開始時に交通時刻が増え、終了時に減る
+    - [Daylight Savings Time and Traffic Accidents | NEJM](https://www.nejm.org/doi/full/10.1056/nejm199604043341416)
+        - > The loss of merely one hour of sleep can increase the risk of traffic accidents. It is likely that the effects are due to sleep loss rather than a nonspecific disruption in circadian rhythm, since gaining an additional hour of sleep at the fall time shift seems to decrease the risk of accidents.
+        - > 訳: たった1時間の睡眠不足が交通事故のリスクを増やしうる。これは体内時計の小さな乱れというよりは、睡眠不足によるものだろう。フォールタイムへの移行（サマータイムの終了）が、交通事故のリスクを減らすらしいからである。
 
 <!--
 
