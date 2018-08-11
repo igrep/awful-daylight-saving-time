@@ -22,6 +22,7 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 ### システム修正に関わる問題（過去発生したバグ、障害など）
 
+- [Windowsのサマータイム対応、組み込み機器に難題　　：日本経済新聞](https://www.nikkei.com/article/DGXMZO33991670Z00C18A8000000/)
 - （サマータイムを長年実施している国の人が作ったソフトウェアであっても）カレンダーやアラームなどの動作がおかしくなる
     - Yep, There's A Daylight Savings Time Bug In iOS 7.0.6 - Cult of Mac | https://www.cultofmac.com/269245/yep-theres-daylight-savings-time-bug-ios-7-0-6/
       > Apple has had bugs come up in iOS after the switch to Daylight Savings Time in 2010, 2011, and 2012, while 2013 saw a similar New Year’s Bug screw up Do Not Disturb for device owners. Now here we are in 2014. Does iOS 7 contain a Daylight Savings Time bug?  
@@ -39,6 +40,8 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 - EU全体で夏時間を廃止しようとする動き
     - [Daylight saving time may become a thing of the past in Europe](https://www.nbcnews.com/news/world/daylight-saving-time-may-become-thing-past-europe-n893131)
+        - 要約: [中央ヨーロッパ時間](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E5%A4%8F%E6%99%82%E9%96%93)に属するフィンランドでは、夏は白夜のため、サマータイムであろうとなかろうと一日中日が昇っている。そのためサマータイムの恩恵を享受できない。どころか、時計をずらすことによる健康被害がある分、デメリットの方が大きい。そのためEUの議会に掛け合って、サマータイムを廃止するよう求めている。  
+          EUのルール上、加盟国全体で夏時間の切り替えタイミングを設定しているため、EU全体で夏時間を廃止するという動きになっている。
 
 ### その他、サマータイムの導入に伴い想定される、\*\*悪い\*\*影響
 
