@@ -66,7 +66,6 @@ Title                                  | URL
 daylight saving time - Google Scholar | https://scholar.google.co.jp/scholar?start=0&q=daylight+saving+time+&hl=ja&lr=lang_en%7Clang_ja&num=20&as_sdt=0,5
 daylight savings time bug - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time+bug&rlz=1C1GCEA_enJP787JP787&ei=2wxpW-PwKsry8QXn3auQCA&start=10&sa=N&biw=1240&bih=802
 daylight savings time - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time&rlz=1C1GCEA_enJP787JP787&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiG_4jd_NncAhVIu7wKHcbQAH0Q_AUICigB&biw=1240&bih=1294&dpr=1.5
-Bishop proposes states have more options for daylight saving time | https://www.thespectrum.com/story/news/2018/07/16/bishop-proposes-states-have-more-options-daylight-saving-time/789099002/
 Glitch in Google Calendar - Daylight Savings Time March 11, 2018 - Google プロダクト フォーラム | https://productforums.google.com/forum/#!msg/calendar/2vrV8zKirOI/AeFdUfwOAgAJ
 1233809 - Daylight Savings Time Displays the Wrong Date in JavaScript on Windows | https://bugzilla.mozilla.org/show_bug.cgi?id=1233809
 日本に『サマータイム制』はいらない！ ( 夏 ) - 気象・歳時・防災 コラム - Yahoo!ブログ | https://blogs.yahoo.co.jp/otenki_bosai/47260331.html
