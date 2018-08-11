@@ -22,9 +22,11 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 ### システム修正に関わる問題（過去発生したバグ、障害など）
 
-- [Windowsのサマータイム対応、組み込み機器に難題　　：日本経済新聞](https://www.nikkei.com/article/DGXMZO33991670Z00C18A8000000/)
+- 組み込み機器など、更新が困難なコンピューターが存在する。
+    - [Windowsのサマータイム対応、組み込み機器に難題　　：日本経済新聞](https://www.nikkei.com/article/DGXMZO33991670Z00C18A8000000/)  
+      > ただし、Windowsは決済端末やキオスク端末、工場設備などの組み込み機器にも多く使われている。これらの機器でWindows Updateを適用しにくい場合、サマータイム対応が難題になる可能性がある
 - （サマータイムを長年実施している国の人が作ったソフトウェアであっても）カレンダーやアラームなどの動作がおかしくなる
-    - Yep, There's A Daylight Savings Time Bug In iOS 7.0.6 - Cult of Mac | https://www.cultofmac.com/269245/yep-theres-daylight-savings-time-bug-ios-7-0-6/
+    - [Yep, There's A Daylight Savings Time Bug In iOS 7.0.6 - Cult of Mac](https://www.cultofmac.com/269245/yep-theres-daylight-savings-time-bug-ios-7-0-6/)  
       > Apple has had bugs come up in iOS after the switch to Daylight Savings Time in 2010, 2011, and 2012, while 2013 saw a similar New Year’s Bug screw up Do Not Disturb for device owners. Now here we are in 2014. Does iOS 7 contain a Daylight Savings Time bug?  
       > It does! If you open Calendar on your iOS 7 device, you will notice that while the time of your operating system is set correctly, the line marking the time in Calendar is an hour old.
 
