@@ -34,6 +34,20 @@ GitHubに公開していることから察せられるとおり、Pull request�
       > 含んでいた！カレンダーのアプリをiOS 7の端末で開くと、OSの時刻は正しく設定されているのに、カレンダーのアプリが指している現在時刻の線が1時間古い時刻を指しているのに気づくだろう。
 
         - 訳注: iOSはiPhoneやiPadで使用されているOS（基本ソフト）です。iPhoneやiPadに限らず、正しく対応しない限り、サマータイムの切り替え前後にスマートフォンのアラームが動作しない、間違った時刻を表示することになってしまいます。そして正しく対応できなかった事例は、長年サマータイムを経験しているであろうAppleが作ったiPhoneにさえも何度も何度も発生しています。
+    - [Glitch in Google Calendar - Daylight Savings Time March 11, 2018 - Google プロダクト フォーラム](https://productforums.google.com/forum/#!msg/calendar/2vrV8zKirOI/AeFdUfwOAgAJ)  
+      > Any events & times entered on the calendar after March 11, 2018, Daylight Savings Time, are displaying the time 1 hour earlier than what I entered.  
+      > 訳: 2018年3月11日、サマータイム（の開始日）以降のあらゆるイベントや時刻が、私が入力したよりも1時間早く表示されている。
+        - 訳注: Googleサイトというホームページ作成サービスで作成したホームページにGoogle Calendarを表示するよう設定すると、Google Calendar上では正しい時刻で表示されているにもかかわらず、Googleサイトで作成したホームページ上で見ると1時間早く表示されてしまう、というバグ。
+    - [1233809 - Daylight Savings Time Displays the Wrong Date in JavaScript on Windows](https://bugzilla.mozilla.org/show_bug.cgi?id=1233809)  
+      > March 10 1980 is shown as GMT -04:00 for Firefox on Windows while Firefox on Unix systems display GMT -05:00.  This bug effects all versions of Firefox.  Tested on Windows 7, 8.1 & 10.  
+      > ...  
+      > This is likely related to the 2005 change to the U.S.
+      > 訳: WindowsのFirefoxで1980年3月10（の時刻）がGMO -04:00として表示されているが、UnixのシステムではGMO -05:00として表示されている。このバグはすべてのバージョンのFirefoxが影響を受けている。Windows 7, 8.1, 10でテストした。  
+      > ...（訳者による中略）...  
+      > これはおそらく2005年における合衆国のサマータイムの変更が関係している。
+        - 訳注: Windows版Firefoxで、東部標準時における、過去の夏時間の開始時期が正しく反映されていないというバグ。  
+          このように、夏時間への切り替え時の問題は、実際に切り替える時だけでなく、切り替えがあった年以降においても、過去の時刻を扱うソフトウェアや、その他の過去の記録を扱う場合においても、間違いの元になることがあります。  
+          つまり、一度サマータイムを採用してしまうと、**採用した年以降にも混乱を招く恐れがある**のです。
 
 ### 身体への影響
 
@@ -66,8 +80,6 @@ Title                                  | URL
 daylight saving time - Google Scholar | https://scholar.google.co.jp/scholar?start=0&q=daylight+saving+time+&hl=ja&lr=lang_en%7Clang_ja&num=20&as_sdt=0,5
 daylight savings time bug - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time+bug&rlz=1C1GCEA_enJP787JP787&ei=2wxpW-PwKsry8QXn3auQCA&start=10&sa=N&biw=1240&bih=802
 daylight savings time - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time&rlz=1C1GCEA_enJP787JP787&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiG_4jd_NncAhVIu7wKHcbQAH0Q_AUICigB&biw=1240&bih=1294&dpr=1.5
-Glitch in Google Calendar - Daylight Savings Time March 11, 2018 - Google プロダクト フォーラム | https://productforums.google.com/forum/#!msg/calendar/2vrV8zKirOI/AeFdUfwOAgAJ
-1233809 - Daylight Savings Time Displays the Wrong Date in JavaScript on Windows | https://bugzilla.mozilla.org/show_bug.cgi?id=1233809
 日本に『サマータイム制』はいらない！ ( 夏 ) - 気象・歳時・防災 コラム - Yahoo!ブログ | https://blogs.yahoo.co.jp/otenki_bosai/47260331.html
 Daylight Savings Time Bug Xerox | http://fieryforums.efi.com/showthread.php/5105-Daylight-Savings-Time-Bug-Xerox
 Why would daylight-saving time mess up my computer? - HowStuffWorks | https://computer.howstuffworks.com/dst-bug.htm
