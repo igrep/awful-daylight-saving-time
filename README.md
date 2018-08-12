@@ -51,6 +51,13 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 ### 身体への影響や、結果として起こる問題
 
+- 交通事故の増加
+    - [Excess Risk of Fatal Road Traffic Accidents on the Day of Da... : Epidemiology](https://journals.lww.com/epidem/Fulltext/2018/09000/Excess_Risk_of_Fatal_Road_Traffic_Accidents_on_the.25.aspx)
+        - > Our findings suggest that, on average, DST changes are associated with a cost of 1.5 lives every year due to road traffic accidents in Spain’s capital cities. Considering that 78% of deaths from road traffic accidents in Spain occur on roads outside of cities, this could have an additional cost of another 5 lives every year.
+        - > 訳: 平均して、サマータイムへの切り替えは、スペインの主要な都市における年間1.5人の交通事故死と関連付けられていることがわかった。スペインにおける交通事故の78%の交通事故死が主要都市以外の道路で発生していることを考慮すると、さらに年間5人の死亡を発生させていた可能性もある。
+    - [Spring Forward at Your Own Risk: Daylight Saving Time and Fatal Vehicle Crashes](https://www.aeaweb.org/articles?id=10.1257/app.20140100)
+        - > My results imply that from 2002-2011 the transition into DST caused over 30 deaths at a social cost of $275 million annually. Employing four tests to decompose the aggregate effect into an ambient light or sleep mechanism, I find that shifting ambient light only reallocates fatalities within a day, while sleep deprivation caused by the spring transition increases risk.
+        - > 2002年から2011年におけるサマータイムへの切り替え時、1日で30人以上の死者が出て、年間275百万ドルの社会的なコストがかかったことを示している。4つのテストで合計された結果を環境光の変化や睡眠のメカニズムといった要因に分解することで、環境光の変化は1日に発生する死亡事故を移し替えているだけに過ぎず、夏時間の開始による睡眠不足がリスクを増加させている、ということを発見した。
 - cyberloafing（勤務中のインターネットの私用）が増える
     - [Lost sleep and cyberloafing: Evidence from the laboratory and a daylight saving time quasi-experiment.](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0027557)
         - > We also demonstrate that the shift to Daylight Saving Time (DST) results in a dramatic increase in cyberloafing behavior at the national level.
