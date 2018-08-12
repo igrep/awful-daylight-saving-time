@@ -17,6 +17,14 @@
 
 GitHubに公開していることから察せられるとおり、Pull requestやIssue報告による情報提供は強く歓迎します。
 
+### ここでいう「サマータイム」について
+
+過去、北海道庁において、「一部の職員が通常の勤務時間より１時間早出出勤する」政策を、「サマータイム」と称して行ったようです。
+
+[サマータイム実施結果 ｜ 総合政策部政策局参事](http://www.pref.hokkaido.lg.jp/ss/ssa/summertime_jissikekka.htm)
+
+紛らわしさを防止するためにあらかじめ述べておきますと、ここで扱う「サマータイム」は、あくまでも対象の地域で使用する時刻を繰り上げることを指しており、北海道庁で行ったような、労働時間をはじめとする各種のイベントの実施時間を繰り上げる「サマータイム」ではありません。
+
 ## サマータイムの悪い側面について
 
 
@@ -62,6 +70,8 @@ GitHubに公開していることから察せられるとおり、Pull request�
     - [Lost sleep and cyberloafing: Evidence from the laboratory and a daylight saving time quasi-experiment.](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0027557)
         - > We also demonstrate that the shift to Daylight Saving Time (DST) results in a dramatic increase in cyberloafing behavior at the national level.
         - > 訳: サマータイムへの切り替えが、勤務中のインターネットの私用を国レベルで劇的に増やす、ということを示した。
+- 子供をはじめとする生活リズムの乱れ
+    - [きよ耳さんのツイート: "は？待って？サマータイム冷静に考えてみたらさ、導入されたらスーパー規則正しく生きてる幼児を2時間早く叩き起こし保育園に連れていき、2時間早く寝かせるんでしょ？いやーー簡単に言ってくれるわーーー🔪🔪仕事になんねぇな。"](https://twitter.com/kiyomimi/status/1026966474231963648)
 - [The Human Circadian Clock's Seasonal Adjustment Is Disrupted by Daylight Saving Time - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960982207020866)
 
 
@@ -87,7 +97,6 @@ GitHubに公開していることから察せられるとおり、Pull request�
 - オリンピックの競技を含めた、夕方の活動時が却って暑い自国の活動となってしまう。
     - [【電子版】政府、夏時間検討へ　慎重姿勢から一転　首相が前向き姿勢 | 政治・経済 ニュース | 日刊工業新聞 電子版](https://www.nikkan.co.jp/articles/view/00483784)
       > 仮に2時間繰り上げる夏時間を導入すれば、（中略）一方で、夕方の競技が暑い時間帯に行われるジレンマも抱える。
-
 
 
 ## サマータイムの良い側面について
