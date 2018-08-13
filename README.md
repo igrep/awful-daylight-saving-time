@@ -63,6 +63,10 @@ GitHubに公開していることから察せられるとおり、Pull request�
         - > しかし、世界各国のサマータイムは「1時間繰り上げる」ことが一般的なので、カシオ計算機の製品は「サマータイムがオン」という情報を受け取っても「1時間繰り上げられている」として反映させる設定になっています。そのため、政府が検討しているという「2時間の繰り上げ」の場合、ワールドタイムを1時間分しか補正してくれず、残りの1時間分、ずれが生じるといいます。
         - > 電波時計にはもう1つ、GPS（全地球測位システム）情報に基づき、現在位置のタイムゾーンに合わせて時刻を表示するタイプのものがあります。受信端末（時計）側で設定したタイムゾーンに応じて時刻を表示します。  
           > そのため、政府が検討しているという「2時間の繰り上げ」の場合、現在の日本標準時より2時間ずれたタイムゾーンを設定すれば、サマータイムの影響は出ないことになります。
+- その他のサマータイムへの切り替え時におけるシステムの不具合
+    - [Daylight Savings Time Bug Xerox](http://fieryforums.efi.com/showthread.php/5105-Daylight-Savings-Time-Bug-Xerox)
+        - > Every time the clocks change we get a significant slowdown in the performance of the print driver. The slowdown occurs when opening the printer properties UI and is also slower when pressing print and waiting for the application to return to other tasks.
+        - > 訳: 時計を切り替える際、いつもプリンタードライバーの動作が明らかに遅くなる。速度の低下はプリンターのプロパティを開くときに見られ、加えて「印刷」ボタンを押してからほかのタスクに返ってくるまでも遅い。
 
 ### 身体への影響や、結果として起こる問題
 
@@ -145,12 +149,13 @@ daylight saving time - Google Scholar | https://scholar.google.co.jp/scholar?sta
 daylight savings time bug - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time+bug&rlz=1C1GCEA_enJP787JP787&ei=2wxpW-PwKsry8QXn3auQCA&start=10&sa=N&biw=1240&bih=802
 daylight savings time - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time&rlz=1C1GCEA_enJP787JP787&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiG_4jd_NncAhVIu7wKHcbQAH0Q_AUICigB&biw=1240&bih=1294&dpr=1.5
 日本に『サマータイム制』はいらない！ ( 夏 ) - 気象・歳時・防災 コラム - Yahoo!ブログ | https://blogs.yahoo.co.jp/otenki_bosai/47260331.html
-Daylight Savings Time Bug Xerox | http://fieryforums.efi.com/showthread.php/5105-Daylight-Savings-Time-Bug-Xerox
 Why would daylight-saving time mess up my computer? - HowStuffWorks | https://computer.howstuffworks.com/dst-bug.htm
+
 Daylight savings time bug (beta forum topic continued here) - 2BrightSparks | https://www.2brightsparks.com/bb/viewtopic.php?t=11184
 Daylight savings time bug? - Adobe Community | https://forums.adobe.com/thread/813805
 Remember The Milk - Forums / Help / Daylight Savings Time Bug in Android | https://www.rememberthemilk.com/forums/help/12344/
 March 11 calendar bug - Outlook Mac | https://social.technet.microsoft.com/Forums/office/en-US/a43a6c67-7d02-4a62-95e5-5ff931f8f7ac/march-11-calendar-bug-outlook-mac?forum=outlook
+
 daylight savings time trouble - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time+trouble&rlz=1C1GCEA_enJP787JP787&oq=daylight+savings+time+trouble&aqs=chrome..69i57j0.12334j0j7&sourceid=chrome&ie=UTF-8
 Is daylight saving time worth the trouble? Research says no | http://theconversation.com/is-daylight-saving-time-worth-the-trouble-research-says-no-86739
 Why daylight saving time can be bad for your health - CNN | https://edition.cnn.com/2016/03/11/health/daylight-saving-time-health-effects/index.html
