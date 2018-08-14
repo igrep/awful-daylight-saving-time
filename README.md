@@ -67,6 +67,17 @@ GitHubに公開していることから察せられるとおり、Pull request�
     - [Daylight Savings Time Bug Xerox](http://fieryforums.efi.com/showthread.php/5105-Daylight-Savings-Time-Bug-Xerox)
         - > Every time the clocks change we get a significant slowdown in the performance of the print driver. The slowdown occurs when opening the printer properties UI and is also slower when pressing print and waiting for the application to return to other tasks.
         - > 訳: 時計を切り替える際、いつもプリンタードライバーの動作が明らかに遅くなる。速度の低下はプリンターのプロパティを開くときに見られ、加えて「印刷」ボタンを押してからほかのタスクに返ってくるまでも遅い。
+    - [Daylight savings time bug? - Adobe Community](https://forums.adobe.com/thread/813805)
+        - > I woke up this morning to find 3 of my sites all encountering a variation of this error:  
+            > Date value passed to date function createDateTime is either unspecified or invalid. Specify a valid date in createDateTime function.  
+            > Hour '2' specified in {ts '2011-3-13 2:0:0'} does not exist in the timezone Eastern Standard Time, if Daylight Saving Time is enabled.  
+            Today is the first day of daylight savings time, and the code affected hasn't been altered in years. Is anyone else encountering this error? Any idea how to fix?
+        - > 訳: 今朝起きたら、私の3つのサイトすべてでこんな種類のエラーが発生していたことに気づいたんだ:  
+            > createDateTime関数に渡された日付の値が示されなかった、あるいは不正でした。正常な日付をcreateDateTime関数に示してください。  
+            > サマータイムが有効な場合、{ts '2011-3-13 2:0:0'} に示した時間 '2' は東部標準時間では存在しません。  
+            今日はサマータイムの最初の日で、影響を受けたコードは何年間も修正されていない。誰かこのエラーに出会っていないだろうか？何か修正する方法はある？
+        - 訳注: おそらく、報告者が作成したアプリケーションが東部標準時間で動作するにも関わらず、入力される日時にタイムゾーンの情報が含まれていなかったことが原因の模様。  
+            「影響を受けたコードは何年間も修正されていない」ことから察せられるとおり、サマータイムに正しく対応していないことによる問題は、関係者が忘れた頃に問題を出すことがある、という例として掲載した。
 
 ### 身体への影響や、結果として起こる問題
 
@@ -149,7 +160,6 @@ daylight savings time - Google 検索 | https://www.google.co.jp/search?q=daylig
 日本に『サマータイム制』はいらない！ ( 夏 ) - 気象・歳時・防災 コラム - Yahoo!ブログ | https://blogs.yahoo.co.jp/otenki_bosai/47260331.html
 Why would daylight-saving time mess up my computer? - HowStuffWorks | https://computer.howstuffworks.com/dst-bug.htm
 
-Daylight savings time bug? - Adobe Community | https://forums.adobe.com/thread/813805
 Remember The Milk - Forums / Help / Daylight Savings Time Bug in Android | https://www.rememberthemilk.com/forums/help/12344/
 March 11 calendar bug - Outlook Mac | https://social.technet.microsoft.com/Forums/office/en-US/a43a6c67-7d02-4a62-95e5-5ff931f8f7ac/march-11-calendar-bug-outlook-mac?forum=outlook
 
