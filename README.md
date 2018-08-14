@@ -141,8 +141,6 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 <!--
 
-### Daylight savings time bug? | Adobe Community
-
 Title                                  | URL
 ---------------------------------------|-----------
 daylight saving time - Google Scholar | https://scholar.google.co.jp/scholar?start=0&q=daylight+saving+time+&hl=ja&lr=lang_en%7Clang_ja&num=20&as_sdt=0,5
@@ -151,7 +149,6 @@ daylight savings time - Google 検索 | https://www.google.co.jp/search?q=daylig
 日本に『サマータイム制』はいらない！ ( 夏 ) - 気象・歳時・防災 コラム - Yahoo!ブログ | https://blogs.yahoo.co.jp/otenki_bosai/47260331.html
 Why would daylight-saving time mess up my computer? - HowStuffWorks | https://computer.howstuffworks.com/dst-bug.htm
 
-Daylight savings time bug (beta forum topic continued here) - 2BrightSparks | https://www.2brightsparks.com/bb/viewtopic.php?t=11184
 Daylight savings time bug? - Adobe Community | https://forums.adobe.com/thread/813805
 Remember The Milk - Forums / Help / Daylight Savings Time Bug in Android | https://www.rememberthemilk.com/forums/help/12344/
 March 11 calendar bug - Outlook Mac | https://social.technet.microsoft.com/Forums/office/en-US/a43a6c67-7d02-4a62-95e5-5ff931f8f7ac/march-11-calendar-bug-outlook-mac?forum=outlook
