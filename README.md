@@ -172,8 +172,7 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 Title                                  | URL
 ---------------------------------------|-----------
-http://www.jssr.jp/data/pdf/summertime_20120315.pdf
-
+https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=daylight+saving+time+energy+&oq=day
 daylight saving time - Google Scholar | https://scholar.google.co.jp/scholar?start=0&q=daylight+saving+time+&hl=ja&lr=lang_en%7Clang_ja&num=20&as_sdt=0,5
 daylight savings time bug - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time+bug&rlz=1C1GCEA_enJP787JP787&ei=2wxpW-PwKsry8QXn3auQCA&start=10&sa=N&biw=1240&bih=802
 daylight savings time - Google 検索 | https://www.google.co.jp/search?q=daylight+savings+time&rlz=1C1GCEA_enJP787JP787&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiG_4jd_NncAhVIu7wKHcbQAH0Q_AUICigB&biw=1240&bih=1294&dpr=1.5
