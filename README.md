@@ -203,7 +203,4 @@ Why daylight saving time can be bad for your health - CNN | https://edition.cnn.
 404 Blog Not Found:夏時間を支持するのは頭が春な人だけ | http://blog.livedoor.jp/dankogai/archives/51239059.html
 
 https://www.ncbi.nlm.nih.gov/pubmed/11152980
-
-
-https://twitter.com/kiyomimi/status/1026966474231963648
 -->
