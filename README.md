@@ -49,6 +49,13 @@ GitHubに公開していることから察せられるとおり、Pull request�
 - [サマータイム—健康に与える影響 一般社団法人 日本睡眠学会 サマータイム制度に関する特別委員会](http://www.jssr.jp/data/pdf/summertime_20120315.pdf)
     - > 省エネ効果ですが、4ページですでに述べたように、ロシア、フランスでは否定されています。2000年のオリンピック開催に合わせてサマータイムを延長したオーストラリアの2州でも、延長によって夕方の電力消費量は節約できたのですが、朝の電力消費量は増加し、全体として省エネ効果はありませんでした。米国・インディアナ州では、2007年のサマータイム導入時に家庭の電力消費量が1～4％増加したようです。照明の電力消費量は減少したものの、冷暖房の使用がそれ以上に増加したためです。
 
+<!--
+https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00131
+https://www.sciencedirect.com/science/article/pii/S0301421507002273
+https://link.springer.com/article/10.1007/s10640-017-0131-x
+https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=01956574&AN=128030841&h=xXKIeb4%2b5QyKC1%2fQvg3gvsa3EeC8SsLsNUAUqSwVz%2bvrZL0S6sJ88njfpZvNH2B0wRlWzpHZFFK0nLJcSOYiCQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d01956574%26AN%3d128030841
+-->
+
 ### システム修正に関わる問題（過去発生したバグ、障害など）
 
 - 組み込み機器など、更新が困難なコンピューターが存在する。
