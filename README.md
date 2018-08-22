@@ -130,6 +130,9 @@ https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authty
     - [Lost sleep and cyberloafing: Evidence from the laboratory and a daylight saving time quasi-experiment.](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0027557)
         - > We also demonstrate that the shift to Daylight Saving Time (DST) results in a dramatic increase in cyberloafing behavior at the national level.
         - > 訳: サマータイムへの切り替えが、勤務中のインターネットの私用を国レベルで劇的に増やす、ということを示した。
+- 心筋梗塞の増加
+    - [オリンピックでサマータイム？　心筋梗塞増やす可能性も：朝日新聞デジタル](https://www.asahi.com/articles/SDI201808108087.html)
+        - > 悪影響は、単に「昼間眠くなる」とかに限らず、心筋梗塞のリスクが上がるのだそうです。私も自分で論文を調べてみましたが、確かに、サマータイム（"Daylight Saving Time"）と心筋梗塞の発症の関連を示した 報告が複数あります。2012年以降もサマータイムが心筋梗塞の発症リスクを増やすことを示す研究が発表されています。クロアチアでは3月の最後の日曜日からはじまって、10月の最後の日曜日で終わるのですが、2412人の急性心筋梗塞患者を解析した結果、3月のサマータイム開始後の最初の平日の4日間では心筋梗塞の発症が1.29倍に、10月のサマータイム終了後では1.44倍になることが示されました。
 - 子供をはじめとする生活リズムの乱れ
     - [きよ耳さんのツイート: "は？待って？サマータイム冷静に考えてみたらさ、導入されたらスーパー規則正しく生きてる幼児を2時間早く叩き起こし保育園に連れていき、2時間早く寝かせるんでしょ？いやーー簡単に言ってくれるわーーー🔪🔪仕事になんねぇな。"](https://twitter.com/kiyomimi/status/1026966474231963648)
 - [The Human Circadian Clock's Seasonal Adjustment Is Disrupted by Daylight Saving Time - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960982207020866)
