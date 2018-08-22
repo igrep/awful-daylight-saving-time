@@ -40,6 +40,9 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 ### 省エネ効果が実際にはないこと
 
+- [Does Daylight Saving Time Save Energy? Evidence from a Natural Experiment in Indiana](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00131)
+    - > Our main finding is that, contrary to the policy's intent, DST increases electricity demand. The findings are consistent with simulation results that identify a trade-off between reducing demand for lighting and increasing demand for heating and cooling. We estimate a cost to Indiana households of $9 million per year in increased electricity bills. We also estimate social costs of increased pollution emissions between $1.7 to $5.5 million per year.
+    - > 訳: 政策の意図に反して、サマータイムは電力の需要を増加させていることがわかった。明かりに対する需要を減らす一方冷暖房の需要を増やす、というシミュレーション結果ともこの結果は一貫している。汚染物質の排出が増加することによる社会的なコストは、1年辺り1.7百万ドルから5.5百万ドルであると我々は推定した。
 - [今夏（2011年夏）の節電に向けて ｜ 産総研：安全科学研究部門– 持続可能な社会実現に向けた評価研究部門 | 産総研 AIST RISS](https://www.aist-riss.jp/column/2341/)
     - > 生活スケジュールの変化（サマータイムの導入）  
       > 結論: 有効性が低い（節電効果を期待するには6時間程度の時間シフトが必要）  
@@ -50,7 +53,6 @@ GitHubに公開していることから察せられるとおり、Pull request�
     - > 省エネ効果ですが、4ページですでに述べたように、ロシア、フランスでは否定されています。2000年のオリンピック開催に合わせてサマータイムを延長したオーストラリアの2州でも、延長によって夕方の電力消費量は節約できたのですが、朝の電力消費量は増加し、全体として省エネ効果はありませんでした。米国・インディアナ州では、2007年のサマータイム導入時に家庭の電力消費量が1～4％増加したようです。照明の電力消費量は減少したものの、冷暖房の使用がそれ以上に増加したためです。
 
 <!--
-https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00131
 https://www.sciencedirect.com/science/article/pii/S0301421507002273
 https://link.springer.com/article/10.1007/s10640-017-0131-x
 https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=01956574&AN=128030841&h=xXKIeb4%2b5QyKC1%2fQvg3gvsa3EeC8SsLsNUAUqSwVz%2bvrZL0S6sJ88njfpZvNH2B0wRlWzpHZFFK0nLJcSOYiCQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d01956574%26AN%3d128030841
