@@ -40,6 +40,9 @@ GitHubに公開していることから察せられるとおり、Pull request�
 
 ### 省エネ効果が実際にはないこと
 
+- [Effect of daylight saving time on lighting energy use: A literature review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0301421507002273)
+    - > This paper presents a literature review concerning the effects of DST on energy use. Simple estimates suggest a reduction in national electricity use of around 0.5%, as a result of residential lighting reduction. Several studies have demonstrated effects of this size based on more complex simulations or on measured data. However, there are just as many studies that suggest no effect, and some studies suggest overall energy penalties, particularly if gasoline consumption is accounted for. There is general consensus that DST does contribute to an evening reduction in peak demand for electricity, though this may be offset by an increase in the morning.
+    - > 訳: 本稿では、エネルギーの使用についてのサマータイムの影響に関する文献の調査を行った。単純な試算では、住宅における照明の使用が減ることにより、電力消費量が約0.5%減ることが示されている。より複雑なシミュレーションや実測値に基づき、この減少量を示した研究もある。しかしながら、同時に効果はないとする研究も多く、ガソリンの消費量を考慮すると、全体としてはエネルギーのペナルティーになっているとする研究もある一般的には、サマータイムは夕方における電力需要のピークの減少には貢献しているものの、朝における増加によって相殺してしまう、という認識がある。
 - [Does Daylight Saving Time Save Energy? Evidence from a Natural Experiment in Indiana](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00131)
     - > Our main finding is that, contrary to the policy's intent, DST increases electricity demand. The findings are consistent with simulation results that identify a trade-off between reducing demand for lighting and increasing demand for heating and cooling. We estimate a cost to Indiana households of $9 million per year in increased electricity bills. We also estimate social costs of increased pollution emissions between $1.7 to $5.5 million per year.
     - > 訳: 政策の意図に反して、サマータイムは電力の需要を増加させていることがわかった。明かりに対する需要を減らす一方冷暖房の需要を増やす、というシミュレーション結果ともこの結果は一貫している。汚染物質の排出が増加することによる社会的なコストは、1年辺り1.7百万ドルから5.5百万ドルであると我々は推定した。
@@ -54,7 +57,6 @@ GitHubに公開していることから察せられるとおり、Pull request�
     - 注: おそらくこの節の冒頭に挙げた、[Does Daylight Saving Time Save Energy? Evidence from a Natural Experiment in Indiana](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00131)のことと思われる。
 
 <!--
-https://www.sciencedirect.com/science/article/pii/S0301421507002273
 https://link.springer.com/article/10.1007/s10640-017-0131-x
 https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=01956574&AN=128030841&h=xXKIeb4%2b5QyKC1%2fQvg3gvsa3EeC8SsLsNUAUqSwVz%2bvrZL0S6sJ88njfpZvNH2B0wRlWzpHZFFK0nLJcSOYiCQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d01956574%26AN%3d128030841
 -->
