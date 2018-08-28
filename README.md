@@ -55,9 +55,11 @@ GitHubに公開していることから察せられるとおり、Pull request�
 - [サマータイム—健康に与える影響 一般社団法人 日本睡眠学会 サマータイム制度に関する特別委員会](http://www.jssr.jp/data/pdf/summertime_20120315.pdf)
     - > 省エネ効果ですが、4ページですでに述べたように、ロシア、フランスでは否定されています。2000年のオリンピック開催に合わせてサマータイムを延長したオーストラリアの2州でも、延長によって夕方の電力消費量は節約できたのですが、朝の電力消費量は増加し、全体として省エネ効果はありませんでした。米国・インディアナ州では、2007年のサマータイム導入時に家庭の電力消費量が1～4％増加したようです。照明の電力消費量は減少したものの、冷暖房の使用がそれ以上に増加したためです。
     - 注: おそらくこの節の冒頭に挙げた、[Does Daylight Saving Time Save Energy? Evidence from a Natural Experiment in Indiana](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00131)のことと思われる。
+- [Does Daylight Savings Time Save Energy? Evidence from Ontario | SpringerLink](https://link.springer.com/article/10.1007/s10640-017-0131-x)
+    - > The results suggest that daylight savings time reduces the demand for electricity by about 1.5% in Ontario. The reductions in electricity consumption is concentrated during the evening period. The reduction in electricity demand appears to persist for at least several weeks following the transition to daylight savings time.
+    - > 訳: オンタリオにおける電力需要の減少は1.5%程度であるということが示された。電力需要の減少は夕方の時間帯に集中し、電力需要の減少は、サマータイムへの切り替えから少なくとも数週間持続するようだ。
 
 <!--
-https://link.springer.com/article/10.1007/s10640-017-0131-x
 https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=01956574&AN=128030841&h=xXKIeb4%2b5QyKC1%2fQvg3gvsa3EeC8SsLsNUAUqSwVz%2bvrZL0S6sJ88njfpZvNH2B0wRlWzpHZFFK0nLJcSOYiCQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d01956574%26AN%3d128030841
 -->
 
