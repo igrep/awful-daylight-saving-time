@@ -139,10 +139,28 @@ https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authty
     - [きよ耳さんのツイート: "は？待って？サマータイム冷静に考えてみたらさ、導入されたらスーパー規則正しく生きてる幼児を2時間早く叩き起こし保育園に連れていき、2時間早く寝かせるんでしょ？いやーー簡単に言ってくれるわーーー🔪🔪仕事になんねぇな。"](https://twitter.com/kiyomimi/status/1026966474231963648)
 - [The Human Circadian Clock's Seasonal Adjustment Is Disrupted by Daylight Saving Time - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960982207020866)
 
+### 食品業界への悪影響
+
+- 時間単位で消費期限を管理しているスーパーやコンビニが、混乱する可能性がある
+    - [「サマータイムやめて」　食品流通業界、実施案に悲鳴（食品新聞） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20180829-00010000-shokuhin-bus_all)
+        - > なお、新日本スーパーマーケット協会は当該文書の中で「サマータイム移行日に期限を『×月×日××時』と定めている食品の安全性を確保できない」とするなど、足の早い消費期限商品で起こり得る食品事故の可能性にも言及している。
+    - [「サマータイムやめて」スーパーとコンビニの悲鳴の裏側(井出留美) - 個人 - Yahoo!ニュース](https://news.yahoo.co.jp/byline/iderumi/20180830-00094991/)
+        - > サマータイムを導入し、時計の針を1～2時間進めるということは、全国で、時間単位で管理しているデイリー食品の設定を、オリンピック・パラリンピックの時期だけ変えて、また後に戻すということだ。設定の変更にどれだけの労力と手間がかかるのか、そして混乱が起きるのか。
+- 生鮮食品や惣菜の需要予測が難しくなり、食品ロスが増える恐れがある
+    - [全国スーパーマーケット協会さんのツイート: "記事では期限表示の件を取り上げていただいてますが、時間のズレにより来店時間の気候もずれ、生鮮・惣菜の製造や値引きのタイミングが難しくなり食品ロス増加も懸念されます。 ／　夏時間 コンビニ悲鳴の裏側 | 2018/8/30(木) - Yahoo!ニュース https://t.co/ODwBwn1iKo @YahooNewsTopics"](https://twitter.com/newsuper_jp/status/1034982296963756032)
 
 ### サマータイムを採用している国における事情
 
 - EU全体で夏時間を廃止しようとする動き
+    - [European Commission - PRESS RELEASES - Press release - Summertime Consultation: 84% want Europe to stop changing the clock](http://europa.eu/rapid/press-release_IP-18-5302_en.htm)
+        - > **The European Commission has today published the preliminary results of the public consultation on clock change in Europe.**
+        - > This online consultation, which ran from 4 July to 16 August 2018, received 4.6 million responses from all 28 Member States, the highest number of responses ever received in any Commission public consultation. According to the preliminary results (see annex), 84% of respondents are in favour of putting an end to the bi-annual clock change.
+        - > **Next steps**
+        - > The final results of the public consultation will be published in the coming weeks. The Commission will now make a proposal to the European Parliament and the Council with a view of changing the current clock change arrangements.
+        - > 訳: **ヨーロッパ委員会は、本日、ヨーロッパにおける時刻の変更についての公開調査の事前結果を公開した。**
+        - > このオンラインでの調査は7月4日から8月16日にかけて行われ、ヨーロッパ委員会によるこれまでの公開調査の中で最も多い、4.6百万の回答を28の加盟国から得た。事前の結果（付録を見よ）によると、84%もの回答者が、年2回行われる時刻の変更（訳注: つまりサマータイムのこと）を終了させることに賛成であるという。
+        - > **次のステップ**
+        - > 公開調査の最終的な結果は、数週間後に公開されるだろう。これより委員会はヨーロッパ議会と理事会に対し、時刻の変更に向けた準備をするという見解を提出する。
     - [サマータイム見直し、欧州検討　パブコメ投票４６０万人：朝日新聞デジタル](https://www.asahi.com/articles/ASL8H4SQLL8HUHBI01C.html)
         - > 既に実施している「本家」の欧米では見直しの動きが広がっている。「健康によくない」「省エネの効果が乏しい」などの指摘が出ているためだ。欧州連合（ＥＵ）では１６日まで域内市民に対する「パブリックコメント」があり、１カ月余で４６０万人以上が賛否を寄せた。
     - [Daylight saving time may become a thing of the past in Europe](https://www.nbcnews.com/news/world/daylight-saving-time-may-become-thing-past-europe-n893131)
@@ -162,8 +180,15 @@ https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authty
 ### その他、サマータイムの導入に伴い想定される、\*\*悪い\*\*影響
 
 - オリンピックの競技を含めた、夕方の活動時が却って暑い自国の活動となってしまう。
+    - [東京新聞:サマータイム「無理」　夕方予定競技が酷暑に:社会(TOKYO Web)](http://www.tokyo-np.co.jp/article/national/list/201808/CK2018083002000126.html)
+        - > 　サッカーとラグビーは午後二時半。馬術は同三時－。時間が二時間繰り上がった場合の開始時刻だ。「夕方開始」が「昼すぎ開始」と早まることで、気温が二度程度上昇することが見込まれ、熱中症の危険にさらされる。屋外開催の可能性があるアーチェリーとスポーツクライミング、バスケットボール三人制も同二時台のスタートとなる。
+        - > 　馬は人よりも暑さに弱いとされる。日本馬術連盟の木口明信常務理事は「決まっている『午後五時』より暑い時間帯の開催は無理」と断言。「組織委からの問い合わせは一度もない。各競技の特殊性を聞かずに話を進めるのはおかしい」と不信感を口にした。
     - [【電子版】政府、夏時間検討へ　慎重姿勢から一転　首相が前向き姿勢 | 政治・経済 ニュース | 日刊工業新聞 電子版](https://www.nikkan.co.jp/articles/view/00483784)
       > 仮に2時間繰り上げる夏時間を導入すれば、（中略）一方で、夕方の競技が暑い時間帯に行われるジレンマも抱える。
+- 国際オリンピック委員会が決めた競技時間を変えることにより、放映権を持った放送局の意向に背くことになる
+    - [東京新聞:サマータイム「無理」　夕方予定競技が酷暑に:社会(TOKYO Web)](http://www.tokyo-np.co.jp/article/national/list/201808/CK2018083002000126.html)
+        - > 　サマータイムは、導入済みの欧米で健康被害が報告されるなど問題点が既に指摘されているが、そもそも、国際オリンピック委員会が決めた競技時間を実質二時間早めるような変更が可能なのか。東京五輪の放映権は米テレビＮＢＣが持ち、日程や時間の決定に関与したとされる。
+        - 　米国スポーツに詳しい元プロ野球楽天ゼネラルマネジャーのマーティ・キーナートさんは「望ましい時間に放送できなくなれば、ＮＢＣが再変更を求めてくるかもしれない」と危ぶむ。
 
 ### 新聞各社の主張
 
