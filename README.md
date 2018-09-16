@@ -143,7 +143,6 @@ https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authty
         - > 　馬は人よりも暑さに弱いとされる。日本馬術連盟の木口明信常務理事は「決まっている『午後五時』より暑い時間帯の開催は無理」と断言。「組織委からの問い合わせは一度もない。各競技の特殊性を聞かずに話を進めるのはおかしい」と不信感を口にした。
     - [【電子版】政府、夏時間検討へ　慎重姿勢から一転　首相が前向き姿勢 | 政治・経済 ニュース | 日刊工業新聞 電子版](https://www.nikkan.co.jp/articles/view/00483784)
       > 仮に2時間繰り上げる夏時間を導入すれば、（中略）一方で、夕方の競技が暑い時間帯に行われるジレンマも抱える。
-- [The Human Circadian Clock's Seasonal Adjustment Is Disrupted by Daylight Saving Time - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960982207020866)
 
 ### 食品業界への悪影響
 
