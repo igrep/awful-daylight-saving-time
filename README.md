@@ -164,6 +164,10 @@ https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authty
 ### サマータイムを採用している国における事情
 
 - EU全体で夏時間を廃止しようとする動き
+    - [サマータイム廃止による時差の回避を、EUが加盟国に協調呼び掛け　写真1枚　国際ニュース：AFPBB News](http://www.afpbb.com/articles/-/3189729)
+        - > EUの行政執行機関に当たる欧州委員会（European Commission）は、時計の針を春に1時間進め、秋に1時間戻すという長きにわたって続けられてきたサマータイムは無用の混乱を招いているとして廃止を求めている。
+        - > 　EU諸国は今、夏時間か冬時間のどちらかを選択し、固定するよう求められている。サマータイムの廃止で年に2回、時計の針を進めたり戻したりする必要はなくなるが、どちらの時間を選択するか各国の決定が分かれるとベルギーとオランダのように隣接する国々の間でも1時間の時差が生じる恐れがある。
+        - > 　このような事態を避けるため、サマータイム廃止を主導するビオレタ・ブルツ（Violeta Bulc）欧州委員（運輸）は各国政府に時間の選択では他国と協調するよう呼び掛けている。
     - [European Commission - PRESS RELEASES - Press release - Summertime Consultation: 84% want Europe to stop changing the clock](http://europa.eu/rapid/press-release_IP-18-5302_en.htm)
         - > **The European Commission has today published the preliminary results of the public consultation on clock change in Europe.**
         - > This online consultation, which ran from 4 July to 16 August 2018, received 4.6 million responses from all 28 Member States, the highest number of responses ever received in any Commission public consultation. According to the preliminary results (see annex), 84% of respondents are in favour of putting an end to the bi-annual clock change.
