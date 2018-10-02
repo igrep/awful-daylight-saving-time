@@ -168,6 +168,7 @@ https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authty
 
 ### サマータイムを採用している国における事情
 
+<!-- https://www.mercurynews.com/2018/10/01/california-isnt-the-only-state-debating-daylight-saving-time-forever/ -->
 - EU全体で夏時間を廃止しようとする動き
     - [サマータイム廃止による時差の回避を、EUが加盟国に協調呼び掛け　写真1枚　国際ニュース：AFPBB News](http://www.afpbb.com/articles/-/3189729)
         - > EUの行政執行機関に当たる欧州委員会（European Commission）は、時計の針を春に1時間進め、秋に1時間戻すという長きにわたって続けられてきたサマータイムは無用の混乱を招いているとして廃止を求めている。
